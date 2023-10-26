@@ -1,6 +1,10 @@
-.header {}
+.header {
+  font-size: large;
+}
 
-.bottom-footer {}
+.bottom-footer {
+  font-style: italic;
+}
 
 .text {
   font-weight: 600;
